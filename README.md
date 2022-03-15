@@ -1,6 +1,6 @@
 You may accept this assignment in GitHub Classroom using this link:
 
-    ...
+    https://classroom.github.com/a/ZvPXzTmM
 
 ## Assignment 08: Numerical integrator
 
